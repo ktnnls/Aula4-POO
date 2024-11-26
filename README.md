@@ -46,12 +46,6 @@ Personalização:
 
 Modifique os atributos dos objetos criados utilizando os métodos setters.
 Utilize o método info() para exibir os detalhes do autor e do livro.
-Exemplo Prático:
-
-java
-Copiar código
-Autor autor = new Autor("J.K. Rowling", "Britânica", "jkrowling@email.com");
-LivroDigital livroDigital = new LivroDigital("Harry Potter", autor, "Fantasia", 1, 1000, 15.5);
 
 livroDigital.info(); 
 Aplicações Didáticas
