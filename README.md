@@ -1,7 +1,7 @@
 # Aula4-POO
 Armazenando alguns exercícios da faculdade ADS Uninter, Matéria Programação Orientada a Objetos em JAVA.
 
-Aula 4, exercício 1:
+EXERCÍCIO 1
 Projeto: Sistema de Gerenciamento de Livros
 Este projeto em Java foi desenvolvido para demonstrar e aplicar conceitos fundamentais de Programação Orientada a Objetos (POO) como herança, encapsulamento e polimorfismo. Ele simula um sistema de gerenciamento de livros, abrangendo tanto livros físicos quanto digitais, além de informações sobre seus respectivos autores.
 
