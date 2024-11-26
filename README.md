@@ -57,6 +57,41 @@ Desenvolvedores que procuram implementar um sistema básico de gerenciamento de 
 
 Sinta-se à vontade para adaptar ou estender este projeto! 
 
+EXERCÍCIO 2 - Projeto: Sistema de Ingressos para Eventos
+Este projeto em Java implementa um sistema básico para gerenciamento de ingressos, incluindo ingressos comuns e ingressos VIP. O código explora conceitos de Programação Orientada a Objetos (POO), como herança e sobrescrita de métodos, de maneira prática e funcional.
+
+Estrutura do Sistema
+Classe Principal:
+
+Contém o método main, que executa o sistema.
+Cria instâncias de Ingresso e IngressoVip, exibe suas informações com base nos métodos das respectivas classes.
+Classe Ingresso:
+
+Representa ingressos básicos para eventos.
+Atributos:
+nomeEvento: Nome do evento.
+valor: Valor do ingresso.
+Métodos:
+info(): Exibe os detalhes do ingresso, como nome do evento e valor​(Livro).
+Classe IngressoVip:
+
+Subclasse de Ingresso, representando ingressos VIP com valor adicional.
+Atributos:
+adicional: Valor adicional aplicado ao ingresso.
+Métodos:
+Sobrescreve o método info() para exibir detalhes do ingresso VIP, incluindo o valor adicional e o valor total​(Livro).
+Como Utilizar Este Código
+Criação de Objetos:
+
+Instancie um objeto da classe Ingresso para representar ingressos básicos.
+Instancie um objeto da classe IngressoVip para ingressos com valor adicional.
+
+Aplicações Didáticas
+Prática de POO: Explora herança e sobrescrita de métodos.
+Exercício de Extensibilidade: Permite adicionar novos tipos de ingressos facilmente.
+Simulação Realista: Demonstra como criar um sistema simples para venda de ingressos.
+Sinta-se à vontade para expandir o sistema, adicionando funcionalidades como desconto, quantidade disponível ou integração com bases de dados.
+
 
 
 
